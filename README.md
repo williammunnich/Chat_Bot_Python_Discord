@@ -43,7 +43,7 @@
         pip3 install python-dotenv
         pip3 install text blob
         ```
-    - Get the code from this link **[HERE](https://github.com/williammunnich/wpaai/archive/refs/heads/master.zip)**
+    - Get the code from this link **[HERE](https://github.com/williammunnich/Chat_Bot_Python_Discord/archive/refs/heads/main.zip)**
         Unzip it in location you want it to run
 
 - # **Obtain Discord Token & Channel ID**
