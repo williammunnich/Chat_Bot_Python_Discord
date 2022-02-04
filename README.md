@@ -27,7 +27,7 @@
     - Clone from github with git
     - navigate to folder where you want it to be and download source code with this command:
         ```
-        git clone https://github.com/williammunnich/wpaai
+        git clone https://github.com/williammunnich/Chat_Bot_Python_Discord
         ```
             
 - ***Via zip file:***
