@@ -16,7 +16,7 @@
         ```
         pip install discord
         pip install python-dotenv
-        pip install text blob
+        pip install textblob
         ```
         OR
         ```
